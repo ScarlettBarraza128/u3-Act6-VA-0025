@@ -1,0 +1,11 @@
+Categoría,Archivo original,Lectura,Ancho original,Alto original,Ancho preparado,Alto preparado,Valor mínimo norm.,Valor máximo norm.,Evaluación
+elefante,elefante1.png,OK,600,375,224,224,0.0,1.0,APROBADA
+elefante,elefante2.png,OK,1280,853,224,224,0.0,1.0,APROBADA
+elefante,elefante3.png,OK,1202,802,224,224,0.004,1.0,APROBADA
+elefante,elefante4.png,OK,575,347,224,224,0.0,0.945,APROBADA
+elefante,elefante5.png,OK,1344,1012,224,224,0.0,1.0,APROBADA
+jirafa,jirafa1.png,OK,800,800,224,224,0.016,1.0,APROBADA
+jirafa,jirafa2.png,OK,195,259,224,224,0.0,1.0,APROBADA
+jirafa,jirafa3.png,OK,400,400,224,224,0.0,1.0,APROBADA
+jirafa,jirafa4.png,OK,399,501,224,224,0.0,0.98,APROBADA
+jirafa,jirafa5.png,OK,886,590,224,224,0.0,1.0,APROBADA

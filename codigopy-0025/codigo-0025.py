@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 import os
 import csv
-
+print("Emily Barraza NC 0025")
 # 1. Configuración inicial
 carpeta_original = "img-original-0025"
 carpeta_preparadas = "img-preparadas-0025"
